@@ -1,6 +1,6 @@
 # Djavue
 
-Um 📦template de projeto completo **full-stack**, **pronto para produção**, com boas práticas e focado na produtividade. Combina um frontend moderno (Vue 3 | Vuetify | Axios) e Backend Python (🦄 Django API)
+Um 📦template de projeto completo **full-stack**, com boas práticas e focado na produtividade. Combina um frontend moderno (Vue 3 | Vuetify | Axios) e Backend Python (🦄 Django API)
 
 ```
  _______         __       ___   ____    ____  __    __   _______
