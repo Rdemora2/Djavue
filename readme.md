@@ -39,7 +39,7 @@ docker compose up
 
 # criar superuser do django admin
 abra um terminal na raiz do projeto
-docker exec -ti django_backend bash
+docker exec -ti BACKEND_django bash
 python manage.py createsuperuser
 preencha os campos e crie o super usuário com permissões administrativas
 
